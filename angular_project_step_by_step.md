@@ -281,7 +281,8 @@ time {
 ```
 
 # new-task.css
-```.backdrop {
+```
+.backdrop {
   background-color: rgba(0, 0, 0, 0.9);
   position: fixed;
   top: 0;
