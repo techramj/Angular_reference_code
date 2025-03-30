@@ -8,7 +8,7 @@
 
 2. styles.css
 
-        {
+        *{
             box-sizing: border-box;
         }
 
